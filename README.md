@@ -11,9 +11,7 @@ The course instructor was [Aakash](https://github.com/aakashns) who is the co-fo
 introduction to deep learning using the PyTorch framework. The course takes a hands-on
 coding-focused approach and will be taught using live interactive Jupyter notebooks, allowing
 students to follow along and experiment. Theoretical concepts will be explained in simple
-terms using code. Students will receive weekly assignments, work on a project with real-world
-datasets and participate in a private data science competition to test their skills. Upon
-successful completion of the course, students will receive a certificate of completion.
+terms using code. 
 
 ## Certification
 
